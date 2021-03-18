@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/covid-portal/static/css/main.62c4ecc6.chunk.css",
-    "main.js": "/covid-portal/static/js/main.449a8c9c.chunk.js",
-    "main.js.map": "/covid-portal/static/js/main.449a8c9c.chunk.js.map",
+    "main.css": "/covid-portal/static/css/main.a24a24e4.chunk.css",
+    "main.js": "/covid-portal/static/js/main.1300cf3a.chunk.js",
+    "main.js.map": "/covid-portal/static/js/main.1300cf3a.chunk.js.map",
     "runtime-main.js": "/covid-portal/static/js/runtime-main.058895a0.js",
     "runtime-main.js.map": "/covid-portal/static/js/runtime-main.058895a0.js.map",
     "static/js/2.0cd38036.chunk.js": "/covid-portal/static/js/2.0cd38036.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.62a224dd.chunk.js": "/covid-portal/static/js/3.62a224dd.chunk.js",
     "static/js/3.62a224dd.chunk.js.map": "/covid-portal/static/js/3.62a224dd.chunk.js.map",
     "index.html": "/covid-portal/index.html",
-    "static/css/main.62c4ecc6.chunk.css.map": "/covid-portal/static/css/main.62c4ecc6.chunk.css.map",
+    "static/css/main.a24a24e4.chunk.css.map": "/covid-portal/static/css/main.a24a24e4.chunk.css.map",
     "static/js/2.0cd38036.chunk.js.LICENSE.txt": "/covid-portal/static/js/2.0cd38036.chunk.js.LICENSE.txt",
     "static/media/Footer.module.css": "/covid-portal/static/media/banner.21170105.jpg",
     "static/media/circles.ff85086e.svg": "/covid-portal/static/media/circles.ff85086e.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.058895a0.js",
     "static/js/2.0cd38036.chunk.js",
-    "static/css/main.62c4ecc6.chunk.css",
-    "static/js/main.449a8c9c.chunk.js"
+    "static/css/main.a24a24e4.chunk.css",
+    "static/js/main.1300cf3a.chunk.js"
   ]
 }
